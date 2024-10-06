@@ -1,0 +1,9 @@
+# Ingnorar carpetas y archivos de configuracion y librerias
+
+/Apis/bin/
+/Apis/include/
+/Apis/lib/
+/Apis/lib64/
+/Apis/pyvenv.cfg
+
+
