@@ -10,7 +10,7 @@
 
 * **Microservicios**
     1. Ventas
-    2. Manejo de usuarios
+    2. Usuarios
     3. Inventario
 
 <!-- Para su implementacion lo manejaresmos como apis que se comunican entre ellas -->
